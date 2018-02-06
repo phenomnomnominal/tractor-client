@@ -67,7 +67,7 @@
     "sinon": "1.17.2",
     "sinon-chai": "2.8.0",
     "socket.io-client": "^2.0.3",
-    "tractor": "^0.12.9",
+    "tractor": "^0.13.0",
     "tractor-plugin-cucumber": "^0.4.0",
     "tractor-plugin-page-objects": "^0.4.5",
     "vinyl-buffer": "1.0.0",
